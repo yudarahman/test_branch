@@ -1,0 +1,26 @@
+LOONA MOBILE APPS PROJECT 
+
+resource sure:
+1. video from youtube
+
+resource unsure (copyright issue/etc): 
+1. loona's photo 
+2. loona's songs
+
+Q : native/react ? 
+Q : ios/android ?
+Q : game/apps?
+Q : what kind of apps / game ?
+
+list of possible apps: 
+1. Loona wallpaper phone (live wallpaper, gesture wallpaper, static wallpaper)
+	application for wallpaper that contain loona wallpaper
+
+2. Loona Tube 
+	application to watch videos related to loona via youtube
+	have tab new,top,trending and member videos
+
+
+list of possible game:
+1. guessing loona song
+2. guessing loona member from photo
