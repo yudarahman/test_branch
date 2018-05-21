@@ -2,6 +2,7 @@ LOONA MOBILE APPS PROJECT
 
 resource sure:
 1. video from youtube
+2. Loona's knowledge
 
 resource unsure (copyright issue/etc): 
 1. loona's photo 
@@ -24,3 +25,4 @@ list of possible apps:
 list of possible game:
 1. guessing loona song
 2. guessing loona member from photo
+3. Loona quiz
